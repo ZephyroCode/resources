@@ -27,3 +27,9 @@ Please use your own criteria to choose which resource to use.
   - Lenguaje: ES/EN
   - Recommended by Trollfest
   - Note: Website which include a guideline which start really from scratch, this is pretty a general programming course using javascript as language to learn, this cover : Javascript, html/css, SQL and Jquery.
+
+**javascript.info**
+  - Link : <https://javascript.info/>
+  - Language: ES/EN/IT/RU/FR/ID/UK
+  - Recommended by ulysses-ck
+  - Note: The Modern JavaScript Tutorial. How it's done now. From the basics to advanced topics with simple, but detailed explanations.
